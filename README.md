@@ -1,2 +1,2 @@
-# GD2
+# GT2
 Grad Type 2 - Web Type
