@@ -1,0 +1,25 @@
+body{
+  max-width: 620px;
+  min-width: 325px;
+  padding: 0 25px 0 25px;
+  margin: auto;
+  margin-top: 50px;
+  font-family: source-serif-pro, serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: .02em;
+  font-variant-numeric: oldstyle-nums
+  hyphens:auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphenate-limit-lines: 2;
+  -webkit-hyphenate-limit-lines: 2;
+  -webkit-hyphenate-limit-before: 3;
+  -webkit-hyphenate-limit-after: 3;
+}
+
+p{
+  margin-bottom: 27px;
+}
